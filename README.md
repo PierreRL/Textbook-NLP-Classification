@@ -1,3 +1,3 @@
 # Textbook NLP Classifier
 
-Classifies textbook extracts in Maths, Computing or History using ML methods.
+Classifier for textbook extracts in Maths, Computing or History using NLP and ML methods.
